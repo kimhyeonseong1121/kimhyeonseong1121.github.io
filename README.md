@@ -18,9 +18,9 @@
 [**homework3-4**](http://kimhyeonseong1121.github.io/homework3-4.png)
 
 [**homework3-5**](http://kimhyeonseong1121.github.io/homework3-5.jpg)
+
 [**homework5-html**](http://kimhyeonseong1121.github.io/clock.html)
-[**homework5-css**](http://kimhyeonseong1121.github.io/clock.css)
-[**homework5-js**](http://kimhyeonseong1121.github.io/clock.js)
+
 
 
 
