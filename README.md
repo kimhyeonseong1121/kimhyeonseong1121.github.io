@@ -1,7 +1,7 @@
 # kinhyeonseong1121.github.io
 
-[**homework2-1**](http://kimhyeonseong1121.github.io/homework2-1.html)                        [**homework4**](http://kimhyeonseong1121.github.io/index.php)
-                                                                                              [**homework5**](http://kimhyeonseong1121.github.io/clock.html)     
+[**homework2-1**](http://kimhyeonseong1121.github.io/homework2-1.html)                        
+                                                                                                   
 [**homework2-2**](http://kimhyeonseong1121.github.io/homework2-2.html) 
 
 
@@ -18,6 +18,8 @@
 [**homework3-4**](http://kimhyeonseong1121.github.io/homework3-4.png)
 
 [**homework3-5**](http://kimhyeonseong1121.github.io/homework3-5.jpg)
+ [**homework4**](http://kimhyeonseong1121.github.io/index.php)
+                                                                                              [**homework5**](http://kimhyeonseong1121.github.io/clock.html)  
 
 
 
